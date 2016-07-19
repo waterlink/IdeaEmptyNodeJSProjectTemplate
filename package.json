@@ -1,0 +1,11 @@
+{
+  "name": "IdeaNodeTemplate",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "jasmine": "^2.4"
+  }
+}
